@@ -1,6 +1,0 @@
-2023/09/17-12:22:54.786 5145 Creating DB /home/rzqh/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_account.proton.me_0.indexeddb.leveldb since it was missing.
-2023/09/17-12:22:54.791 5145 Reusing MANIFEST /home/rzqh/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_account.proton.me_0.indexeddb.leveldb/MANIFEST-000001
-2023/09/17-12:22:57.792 5146 Level-0 table #5: started
-2023/09/17-12:22:57.794 5146 Level-0 table #5: 1323 bytes OK
-2023/09/17-12:22:57.796 5146 Delete type=0 #3
-2023/09/17-12:22:57.796 5146 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
