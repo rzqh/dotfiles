@@ -1,0 +1,6 @@
+2023/09/17-21:11:51.082 4688 Creating DB /home/rzqh/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_kiryuu.id_0.indexeddb.leveldb since it was missing.
+2023/09/17-21:11:51.086 4688 Reusing MANIFEST /home/rzqh/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_kiryuu.id_0.indexeddb.leveldb/MANIFEST-000001
+2023/09/17-21:19:45.386 4689 Level-0 table #5: started
+2023/09/17-21:19:45.387 4689 Level-0 table #5: 1472 bytes OK
+2023/09/17-21:19:45.389 4689 Delete type=0 #3
+2023/09/17-21:19:45.390 4689 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

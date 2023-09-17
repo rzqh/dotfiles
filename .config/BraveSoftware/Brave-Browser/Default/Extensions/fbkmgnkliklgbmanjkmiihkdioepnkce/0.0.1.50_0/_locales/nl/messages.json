@@ -1,0 +1,142 @@
+{
+   "addressTitle": {
+      "description": "",
+      "message": "Bepaal jouw locatie"
+   },
+   "asrText": {
+      "description": "",
+      "message": "Asr"
+   },
+   "azanTimeTitle": {
+      "description": "",
+      "message": "Azan-tijd"
+   },
+   "calculationMethodTitle": {
+      "description": "",
+      "message": "Rekenmethode"
+   },
+   "changeLanguageText": {
+      "description": "",
+      "message": "Taal"
+   },
+   "defaultMethod": {
+      "description": "",
+      "message": "EUDiyanet"
+   },
+   "description": {
+      "description": "",
+      "message": "Krijg eenvoudig toegang tot gebedstijden en zie hoeveel tijd er nog is tot de volgende gebeden."
+   },
+   "desktopNotificationsOnTitle": {
+      "description": "",
+      "message": "Desktopmeldingen zijn ingeschakeld."
+   },
+   "desktopNotificationsTitle": {
+      "description": "",
+      "message": "Bureaublad notificaties"
+   },
+   "dhuhrText": {
+      "description": "",
+      "message": "Dhuhr"
+   },
+   "elapsedTimeTitle": {
+      "description": "",
+      "message": "Verstreken tijd"
+   },
+   "fajrText": {
+      "description": "",
+      "message": "Fajr"
+   },
+   "hanafiAsrTitle": {
+      "description": "",
+      "message": "Hanafi Madhhab Late Asr"
+   },
+   "hijriDateOffsetTitle": {
+      "description": "",
+      "message": "Hijri-datumverschuiving (dagen)"
+   },
+   "hour24Title": {
+      "description": "",
+      "message": "24-uurs"
+   },
+   "iconTitle": {
+      "description": "",
+      "message": "Kies uw pictogramstijl"
+   },
+   "imsakText": {
+      "description": "",
+      "message": "Imsak"
+   },
+   "ishaText": {
+      "description": "",
+      "message": "Isha"
+   },
+   "jumuaText": {
+      "description": "",
+      "message": "Jumuah"
+   },
+   "languageCode": {
+      "description": "",
+      "message": "nl"
+   },
+   "maghribText": {
+      "description": "",
+      "message": "Maghrib"
+   },
+   "midnightText": {
+      "description": "",
+      "message": "Midnacht"
+   },
+   "name": {
+      "description": "",
+      "message": "Chrome-extensie voor gebedstijden"
+   },
+   "nextTextTitle": {
+      "description": "",
+      "message": "Overgebleven tijd"
+   },
+   "offsetTitle": {
+      "description": "",
+      "message": "Gebedstijdverschuivingen (minuten)"
+   },
+   "offsetsMenuText": {
+      "description": "",
+      "message": "Offset-aanpassingen"
+   },
+   "offsetsResetButton": {
+      "description": "",
+      "message": "Resetten"
+   },
+   "remainingForIftarTitle": {
+      "description": "",
+      "message": "Iftar in"
+   },
+   "settingsMenuText": {
+      "description": "",
+      "message": "Instellingen"
+   },
+   "shareMenuText": {
+      "description": "",
+      "message": "Opties voor delen"
+   },
+   "shareTitle": {
+      "description": "",
+      "message": "Bedankt voor het delen!"
+   },
+   "short_name": {
+      "description": "",
+      "message": "Gebedstijden"
+   },
+   "showImsakTitle": {
+      "description": "",
+      "message": "Imsak"
+   },
+   "showMidnightTitle": {
+      "description": "",
+      "message": "Midnacht"
+   },
+   "sunriseText": {
+      "description": "",
+      "message": "Ishraq"
+   }
+}

@@ -1,0 +1,142 @@
+{
+   "addressTitle": {
+      "description": "",
+      "message": "Lokasi anda"
+   },
+   "asrText": {
+      "description": "",
+      "message": "Asar"
+   },
+   "azanTimeTitle": {
+      "description": "",
+      "message": "Waktu Azan"
+   },
+   "calculationMethodTitle": {
+      "description": "",
+      "message": "Kaedah pengiraan"
+   },
+   "changeLanguageText": {
+      "description": "",
+      "message": "Bahasa"
+   },
+   "defaultMethod": {
+      "description": "",
+      "message": "JAKIM"
+   },
+   "description": {
+      "description": "",
+      "message": "Akses yang mudah ke waktu solat daripada browser anda"
+   },
+   "desktopNotificationsOnTitle": {
+      "description": "",
+      "message": "Pemberitahuan desktop dihidupkan."
+   },
+   "desktopNotificationsTitle": {
+      "description": "",
+      "message": "Aktifkan pemberitahuan desktop"
+   },
+   "dhuhrText": {
+      "description": "",
+      "message": "Zohor"
+   },
+   "elapsedTimeTitle": {
+      "description": "",
+      "message": "Masa Berlalu"
+   },
+   "fajrText": {
+      "description": "",
+      "message": "Subuh"
+   },
+   "hanafiAsrTitle": {
+      "description": "",
+      "message": "Hanafi Asar"
+   },
+   "hijriDateOffsetTitle": {
+      "description": "",
+      "message": "Tarikh mengimbangi Hijriah"
+   },
+   "hour24Title": {
+      "description": "",
+      "message": "24 Jam"
+   },
+   "iconTitle": {
+      "description": "",
+      "message": "Pilih ikon pilihan anda"
+   },
+   "imsakText": {
+      "description": "",
+      "message": "Imsak"
+   },
+   "ishaText": {
+      "description": "",
+      "message": "Isyak"
+   },
+   "jumuaText": {
+      "description": "",
+      "message": "Jumaat"
+   },
+   "languageCode": {
+      "description": "",
+      "message": "ms"
+   },
+   "maghribText": {
+      "description": "",
+      "message": "Maghrib"
+   },
+   "midnightText": {
+      "description": "",
+      "message": "T Malam"
+   },
+   "name": {
+      "description": "",
+      "message": "Waktu Solat"
+   },
+   "nextTextTitle": {
+      "description": "",
+      "message": "Masa yang berbaki"
+   },
+   "offsetTitle": {
+      "description": "",
+      "message": "Pengimbangan Masa"
+   },
+   "offsetsMenuText": {
+      "description": "",
+      "message": "Pelarasan masa"
+   },
+   "offsetsResetButton": {
+      "description": "",
+      "message": "Tetapkan semula"
+   },
+   "remainingForIftarTitle": {
+      "description": "",
+      "message": "Iftar"
+   },
+   "settingsMenuText": {
+      "description": "",
+      "message": "Tetapan"
+   },
+   "shareMenuText": {
+      "description": "",
+      "message": "Sila kongsi"
+   },
+   "shareTitle": {
+      "description": "",
+      "message": "Terima kasih"
+   },
+   "short_name": {
+      "description": "",
+      "message": "Waktu Solat"
+   },
+   "showImsakTitle": {
+      "description": "",
+      "message": "Imsak"
+   },
+   "showMidnightTitle": {
+      "description": "",
+      "message": "Tengah Malam"
+   },
+   "sunriseText": {
+      "description": "",
+      "message": "Syuruk"
+   }
+}

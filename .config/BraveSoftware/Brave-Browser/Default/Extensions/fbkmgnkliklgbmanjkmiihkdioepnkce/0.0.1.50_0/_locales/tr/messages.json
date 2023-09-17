@@ -1,0 +1,142 @@
+{
+   "addressTitle": {
+      "description": "",
+      "message": "Konum"
+   },
+   "asrText": {
+      "description": "",
+      "message": "İkindi"
+   },
+   "azanTimeTitle": {
+      "description": "",
+      "message": "Ezan Vakti"
+   },
+   "calculationMethodTitle": {
+      "description": "",
+      "message": "Hesaplama Metodu"
+   },
+   "changeLanguageText": {
+      "description": "",
+      "message": "Dil"
+   },
+   "defaultMethod": {
+      "description": "",
+      "message": "TurkiyeDiyanet"
+   },
+   "description": {
+      "description": "",
+      "message": "Namaz vakitlerine kolayca erişim sağlar ve bir sonraki vakte ne kadar kaldığını gösterir."
+   },
+   "desktopNotificationsOnTitle": {
+      "description": "",
+      "message": "Masaüstü bildirimleri açık."
+   },
+   "desktopNotificationsTitle": {
+      "description": "",
+      "message": "Masaüstü bildirimlerini göster"
+   },
+   "dhuhrText": {
+      "description": "",
+      "message": "Öğle"
+   },
+   "elapsedTimeTitle": {
+      "description": "",
+      "message": "Geçen Süre"
+   },
+   "fajrText": {
+      "description": "",
+      "message": "Sabah"
+   },
+   "hanafiAsrTitle": {
+      "description": "",
+      "message": "Hanefi Mezhebi Geç İkindi"
+   },
+   "hijriDateOffsetTitle": {
+      "description": "",
+      "message": "Hicri Gün Ayarı"
+   },
+   "hour24Title": {
+      "description": "",
+      "message": "24-Saat"
+   },
+   "iconTitle": {
+      "description": "",
+      "message": "İkon Stiliniz"
+   },
+   "imsakText": {
+      "description": "",
+      "message": "İmsak"
+   },
+   "ishaText": {
+      "description": "",
+      "message": "Yatsı"
+   },
+   "jumuaText": {
+      "description": "",
+      "message": "Cuma"
+   },
+   "languageCode": {
+      "description": "",
+      "message": "tr"
+   },
+   "maghribText": {
+      "description": "",
+      "message": "Akşam"
+   },
+   "midnightText": {
+      "description": "",
+      "message": "Gece Yarısı"
+   },
+   "name": {
+      "description": "",
+      "message": "Namaz Vakitleri Chrome Eklentisi"
+   },
+   "nextTextTitle": {
+      "description": "",
+      "message": "Kalan Süre"
+   },
+   "offsetTitle": {
+      "description": "",
+      "message": "Ekle/Çıkar (Dakika)"
+   },
+   "offsetsMenuText": {
+      "description": "",
+      "message": "Temkin Ayarları"
+   },
+   "offsetsResetButton": {
+      "description": "",
+      "message": "Temkin ayarlarını sıfırla"
+   },
+   "remainingForIftarTitle": {
+      "description": "",
+      "message": "İftara kalan"
+   },
+   "settingsMenuText": {
+      "description": "",
+      "message": "Ayarlar"
+   },
+   "shareMenuText": {
+      "description": "",
+      "message": "Paylaşım"
+   },
+   "shareTitle": {
+      "description": "",
+      "message": "Teşekkürler!"
+   },
+   "short_name": {
+      "description": "",
+      "message": "NamazVakitleri"
+   },
+   "showImsakTitle": {
+      "description": "",
+      "message": "Imsak"
+   },
+   "showMidnightTitle": {
+      "description": "",
+      "message": "Gece Yarısı"
+   },
+   "sunriseText": {
+      "description": "",
+      "message": "Güneş"
+   }
+}

@@ -1,0 +1,142 @@
+{
+   "addressTitle": {
+      "description": "",
+      "message": "Tu ubicación"
+   },
+   "asrText": {
+      "description": "",
+      "message": "Asr"
+   },
+   "azanTimeTitle": {
+      "description": "",
+      "message": "Tiempo de Azan"
+   },
+   "calculationMethodTitle": {
+      "description": "",
+      "message": "Método de cálculo"
+   },
+   "changeLanguageText": {
+      "description": "",
+      "message": "Idioma"
+   },
+   "defaultMethod": {
+      "description": "",
+      "message": "Egypt"
+   },
+   "description": {
+      "description": "",
+      "message": "Fácil acceso a los horarios de oracion a partir de su navegador"
+   },
+   "desktopNotificationsOnTitle": {
+      "description": "",
+      "message": "Las notificaciones de escritorio están habilitadas"
+   },
+   "desktopNotificationsTitle": {
+      "description": "",
+      "message": "Notificaciones de escritorio"
+   },
+   "dhuhrText": {
+      "description": "",
+      "message": "Dhuhr"
+   },
+   "elapsedTimeTitle": {
+      "description": "",
+      "message": "Tiempo transcurrido"
+   },
+   "fajrText": {
+      "description": "",
+      "message": "Fajr"
+   },
+   "hanafiAsrTitle": {
+      "description": "",
+      "message": "Hanafi Asr"
+   },
+   "hijriDateOffsetTitle": {
+      "description": "",
+      "message": "Desplazamiento de fecha"
+   },
+   "hour24Title": {
+      "description": "",
+      "message": "24 horas"
+   },
+   "iconTitle": {
+      "description": "",
+      "message": "Tu estilo de icono"
+   },
+   "imsakText": {
+      "description": "",
+      "message": "Imsak"
+   },
+   "ishaText": {
+      "description": "",
+      "message": "Isha"
+   },
+   "jumuaText": {
+      "description": "",
+      "message": "Jumua"
+   },
+   "languageCode": {
+      "description": "",
+      "message": "es"
+   },
+   "maghribText": {
+      "description": "",
+      "message": "Maghrib"
+   },
+   "midnightText": {
+      "description": "",
+      "message": "M noche"
+   },
+   "name": {
+      "description": "",
+      "message": "Tiempos de oración"
+   },
+   "nextTextTitle": {
+      "description": "",
+      "message": "Tiempo restante"
+   },
+   "offsetTitle": {
+      "description": "",
+      "message": "Desplazamiento de tiempo"
+   },
+   "offsetsMenuText": {
+      "description": "",
+      "message": "Compensaciones"
+   },
+   "offsetsResetButton": {
+      "description": "",
+      "message": "Reiniciar"
+   },
+   "remainingForIftarTitle": {
+      "description": "",
+      "message": "Iftar"
+   },
+   "settingsMenuText": {
+      "description": "",
+      "message": "Ajustes"
+   },
+   "shareMenuText": {
+      "description": "",
+      "message": "Por favor comparte"
+   },
+   "shareTitle": {
+      "description": "",
+      "message": "Gracias por compartir"
+   },
+   "short_name": {
+      "description": "",
+      "message": "Horarios de oración"
+   },
+   "showImsakTitle": {
+      "description": "",
+      "message": "Imsak"
+   },
+   "showMidnightTitle": {
+      "description": "",
+      "message": "Medianoche"
+   },
+   "sunriseText": {
+      "description": "",
+      "message": "Amanecer"
+   }
+}

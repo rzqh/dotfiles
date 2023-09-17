@@ -1,0 +1,142 @@
+{
+   "addressTitle": {
+      "description": "",
+      "message": "موقعك الجغرافي"
+   },
+   "asrText": {
+      "description": "",
+      "message": "العصر"
+   },
+   "azanTimeTitle": {
+      "description": "",
+      "message": "موعد الآذان"
+   },
+   "calculationMethodTitle": {
+      "description": "",
+      "message": "طريقة الحساب"
+   },
+   "changeLanguageText": {
+      "description": "",
+      "message": "لغة"
+   },
+   "defaultMethod": {
+      "description": "",
+      "message": "MWL"
+   },
+   "description": {
+      "description": "",
+      "message": "سهولة معرفة  مواعيد الصلاة من خلال المتصفح الخاص بك"
+   },
+   "desktopNotificationsOnTitle": {
+      "description": "",
+      "message": "إشعارات سطح المكتب قيد التشغيل"
+   },
+   "desktopNotificationsTitle": {
+      "description": "",
+      "message": "تمكين إشعارات سطح المكتب"
+   },
+   "dhuhrText": {
+      "description": "",
+      "message": "الظهر"
+   },
+   "elapsedTimeTitle": {
+      "description": "",
+      "message": "الوقت المنقضي"
+   },
+   "fajrText": {
+      "description": "",
+      "message": "الفجر"
+   },
+   "hanafiAsrTitle": {
+      "description": "",
+      "message": "حنفي العصر"
+   },
+   "hijriDateOffsetTitle": {
+      "description": "",
+      "message": "موازنة التاريخ"
+   },
+   "hour24Title": {
+      "description": "",
+      "message": "24 ساعة"
+   },
+   "iconTitle": {
+      "description": "",
+      "message": "اختر نمط الأيقونة الخاصة بك"
+   },
+   "imsakText": {
+      "description": "",
+      "message": "إمساق"
+   },
+   "ishaText": {
+      "description": "",
+      "message": "العشاء"
+   },
+   "jumuaText": {
+      "description": "",
+      "message": "الجمعة"
+   },
+   "languageCode": {
+      "description": "",
+      "message": "ar"
+   },
+   "maghribText": {
+      "description": "",
+      "message": "المغرب"
+   },
+   "midnightText": {
+      "description": "",
+      "message": "نصف الليل"
+   },
+   "name": {
+      "description": "",
+      "message": "مواعيد الصلاة"
+   },
+   "nextTextTitle": {
+      "description": "",
+      "message": "الوقت المتبقي"
+   },
+   "offsetTitle": {
+      "description": "",
+      "message": "تعويض الدقائق"
+   },
+   "offsetsMenuText": {
+      "description": "",
+      "message": "تعويضات"
+   },
+   "offsetsResetButton": {
+      "description": "",
+      "message": "اعادة الضبط"
+   },
+   "remainingForIftarTitle": {
+      "description": "",
+      "message": "الإفطار في"
+   },
+   "settingsMenuText": {
+      "description": "",
+      "message": "إعدادات"
+   },
+   "shareMenuText": {
+      "description": "",
+      "message": "شارك من فضلك"
+   },
+   "shareTitle": {
+      "description": "",
+      "message": "شكرا للمشاركة"
+   },
+   "short_name": {
+      "description": "",
+      "message": "مواعيد الصلاة"
+   },
+   "showImsakTitle": {
+      "description": "",
+      "message": "إمساك"
+   },
+   "showMidnightTitle": {
+      "description": "",
+      "message": "نصف الليل"
+   },
+   "sunriseText": {
+      "description": "",
+      "message": "إشراق"
+   }
+}

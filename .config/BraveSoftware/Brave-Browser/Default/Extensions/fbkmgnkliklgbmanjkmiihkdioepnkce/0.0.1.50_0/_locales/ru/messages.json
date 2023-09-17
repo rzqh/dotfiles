@@ -1,0 +1,142 @@
+{
+   "addressTitle": {
+      "description": "",
+      "message": "Свое местоположение"
+   },
+   "asrText": {
+      "description": "",
+      "message": "Аср"
+   },
+   "azanTimeTitle": {
+      "description": "",
+      "message": "Время Азана"
+   },
+   "calculationMethodTitle": {
+      "description": "",
+      "message": "Методика расчёта времени"
+   },
+   "changeLanguageText": {
+      "description": "",
+      "message": "Язык"
+   },
+   "defaultMethod": {
+      "description": "",
+      "message": "ISNA"
+   },
+   "description": {
+      "description": "",
+      "message": "Легкий доступ к времени намазов из своего браузера."
+   },
+   "desktopNotificationsOnTitle": {
+      "description": "",
+      "message": "Уведомления на рабочем столе включены."
+   },
+   "desktopNotificationsTitle": {
+      "description": "",
+      "message": "Уведомления"
+   },
+   "dhuhrText": {
+      "description": "",
+      "message": "Зухр"
+   },
+   "elapsedTimeTitle": {
+      "description": "",
+      "message": "Пройденное время"
+   },
+   "fajrText": {
+      "description": "",
+      "message": "Фаджр"
+   },
+   "hanafiAsrTitle": {
+      "description": "",
+      "message": "Ханафи Аср"
+   },
+   "hijriDateOffsetTitle": {
+      "description": "",
+      "message": "Смещение даты"
+   },
+   "hour24Title": {
+      "description": "",
+      "message": "24-часовой"
+   },
+   "iconTitle": {
+      "description": "",
+      "message": "Выбрать стиль своего значок"
+   },
+   "imsakText": {
+      "description": "",
+      "message": "Имсак"
+   },
+   "ishaText": {
+      "description": "",
+      "message": "Иша"
+   },
+   "jumuaText": {
+      "description": "",
+      "message": "Джума"
+   },
+   "languageCode": {
+      "description": "",
+      "message": "ru"
+   },
+   "maghribText": {
+      "description": "",
+      "message": "Магриб"
+   },
+   "midnightText": {
+      "description": "",
+      "message": "полночь"
+   },
+   "name": {
+      "description": "",
+      "message": "Время намазов"
+   },
+   "nextTextTitle": {
+      "description": "",
+      "message": "Оставшееся время"
+   },
+   "offsetTitle": {
+      "description": "",
+      "message": "Смещение времени"
+   },
+   "offsetsMenuText": {
+      "description": "",
+      "message": "Смещения времени"
+   },
+   "offsetsResetButton": {
+      "description": "",
+      "message": "Сброс настроек"
+   },
+   "remainingForIftarTitle": {
+      "description": "",
+      "message": "Ифтар"
+   },
+   "settingsMenuText": {
+      "description": "",
+      "message": "Настройки"
+   },
+   "shareMenuText": {
+      "description": "",
+      "message": "Варианты обмена"
+   },
+   "shareTitle": {
+      "description": "",
+      "message": "Спасибо, что поделился"
+   },
+   "short_name": {
+      "description": "",
+      "message": "Время намазов"
+   },
+   "showImsakTitle": {
+      "description": "",
+      "message": "Имсаке"
+   },
+   "showMidnightTitle": {
+      "description": "",
+      "message": "полночь"
+   },
+   "sunriseText": {
+      "description": "",
+      "message": "Восход"
+   }
+}

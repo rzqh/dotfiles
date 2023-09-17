@@ -1,0 +1,142 @@
+{
+   "addressTitle": {
+      "description": "",
+      "message": "Ihr Standort"
+   },
+   "asrText": {
+      "description": "",
+      "message": "Asr"
+   },
+   "azanTimeTitle": {
+      "description": "",
+      "message": "Adhan Zeit"
+   },
+   "calculationMethodTitle": {
+      "description": "",
+      "message": "Berechnungsmethode"
+   },
+   "changeLanguageText": {
+      "description": "",
+      "message": "Sprache"
+   },
+   "defaultMethod": {
+      "description": "",
+      "message": "EUDiyanet"
+   },
+   "description": {
+      "description": "",
+      "message": "Einfacher Zugriff auf Gebetszeiten über Ihren Browser"
+   },
+   "desktopNotificationsOnTitle": {
+      "description": "",
+      "message": "Desktop-Benachrichtigungen sind aktiviert"
+   },
+   "desktopNotificationsTitle": {
+      "description": "",
+      "message": "Desktop-Benachrichtigungen"
+   },
+   "dhuhrText": {
+      "description": "",
+      "message": "Dhuhr"
+   },
+   "elapsedTimeTitle": {
+      "description": "",
+      "message": "Verstrichene Zeit"
+   },
+   "fajrText": {
+      "description": "",
+      "message": "Fajr"
+   },
+   "hanafiAsrTitle": {
+      "description": "",
+      "message": "Hanafi Asr"
+   },
+   "hijriDateOffsetTitle": {
+      "description": "",
+      "message": "Datumsversatz"
+   },
+   "hour24Title": {
+      "description": "",
+      "message": "24-Std"
+   },
+   "iconTitle": {
+      "description": "",
+      "message": "Wählen Sie Ihren Symbolstil"
+   },
+   "imsakText": {
+      "description": "",
+      "message": "Imsak"
+   },
+   "ishaText": {
+      "description": "",
+      "message": "Isha"
+   },
+   "jumuaText": {
+      "description": "",
+      "message": "Juma"
+   },
+   "languageCode": {
+      "description": "",
+      "message": "de"
+   },
+   "maghribText": {
+      "description": "",
+      "message": "Maghrib"
+   },
+   "midnightText": {
+      "description": "",
+      "message": "M.Nacht"
+   },
+   "name": {
+      "description": "",
+      "message": "Muslimische Gebetszeiten"
+   },
+   "nextTextTitle": {
+      "description": "",
+      "message": "Verbleibende Zeit"
+   },
+   "offsetTitle": {
+      "description": "",
+      "message": "Zeitversatz in Minuten"
+   },
+   "offsetsMenuText": {
+      "description": "",
+      "message": "Zeitverschiebungen"
+   },
+   "offsetsResetButton": {
+      "description": "",
+      "message": "Zurücksetzen"
+   },
+   "remainingForIftarTitle": {
+      "description": "",
+      "message": "Iftar"
+   },
+   "settingsMenuText": {
+      "description": "",
+      "message": "Einstellungen"
+   },
+   "shareMenuText": {
+      "description": "",
+      "message": "Bitte teilen"
+   },
+   "shareTitle": {
+      "description": "",
+      "message": "Danke für das Teilen"
+   },
+   "short_name": {
+      "description": "",
+      "message": "Gebetszeiten"
+   },
+   "showImsakTitle": {
+      "description": "",
+      "message": "Imsak"
+   },
+   "showMidnightTitle": {
+      "description": "",
+      "message": "Mitternacht"
+   },
+   "sunriseText": {
+      "description": "",
+      "message": "Ishraq"
+   }
+}

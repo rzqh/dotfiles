@@ -1,0 +1,142 @@
+{
+   "addressTitle": {
+      "description": "",
+      "message": "अपना स्थान तय करे"
+   },
+   "asrText": {
+      "description": "",
+      "message": "असर"
+   },
+   "azanTimeTitle": {
+      "description": "",
+      "message": "अज़ान के दौरान"
+   },
+   "calculationMethodTitle": {
+      "description": "",
+      "message": "लेखांकन विधि"
+   },
+   "changeLanguageText": {
+      "description": "",
+      "message": "भाषा"
+   },
+   "defaultMethod": {
+      "description": "",
+      "message": "ISNA"
+   },
+   "description": {
+      "description": "",
+      "message": "आसानी से प्रार्थना के समय की जाँच करें और देखें कि अगली प्रार्थना के लिए कितना समय बचा है।"
+   },
+   "desktopNotificationsOnTitle": {
+      "description": "",
+      "message": "डेस्कटॉप सूचनाएं चालू हैं"
+   },
+   "desktopNotificationsTitle": {
+      "description": "",
+      "message": "डेस्कटॉप सूचनाएं"
+   },
+   "dhuhrText": {
+      "description": "",
+      "message": "ज़ोहर"
+   },
+   "elapsedTimeTitle": {
+      "description": "",
+      "message": "बीता हुआ समय"
+   },
+   "fajrText": {
+      "description": "",
+      "message": "फज्र"
+   },
+   "hanafiAsrTitle": {
+      "description": "",
+      "message": "हनफ़ी माधबी के असर के दौरान"
+   },
+   "hijriDateOffsetTitle": {
+      "description": "",
+      "message": "हिजरी तिथि ऑफसेट (दिन)"
+   },
+   "hour24Title": {
+      "description": "",
+      "message": "24 घंटे का"
+   },
+   "iconTitle": {
+      "description": "",
+      "message": "अपने आइकन का प्रकार चुनें"
+   },
+   "imsakText": {
+      "description": "",
+      "message": "Imsak"
+   },
+   "ishaText": {
+      "description": "",
+      "message": "ईशा"
+   },
+   "jumuaText": {
+      "description": "",
+      "message": "जुम्माह"
+   },
+   "languageCode": {
+      "description": "",
+      "message": "hi"
+   },
+   "maghribText": {
+      "description": "",
+      "message": "मगरिब"
+   },
+   "midnightText": {
+      "description": "",
+      "message": "आधी रात"
+   },
+   "name": {
+      "description": "",
+      "message": "अज़ान के दौरान क्रोम एक्सटेंशन"
+   },
+   "nextTextTitle": {
+      "description": "",
+      "message": "बचा हुआ समय"
+   },
+   "offsetTitle": {
+      "description": "",
+      "message": "प्रार्थना का समय (मिनट)"
+   },
+   "offsetsMenuText": {
+      "description": "",
+      "message": "ऑफसेट समायोजन"
+   },
+   "offsetsResetButton": {
+      "description": "",
+      "message": "रीसेट"
+   },
+   "remainingForIftarTitle": {
+      "description": "",
+      "message": "इफ्तार से पहले"
+   },
+   "settingsMenuText": {
+      "description": "",
+      "message": "समायोजन"
+   },
+   "shareMenuText": {
+      "description": "",
+      "message": "विकल्प साझा करना"
+   },
+   "shareTitle": {
+      "description": "",
+      "message": "साझा करने के लिए धन्यवाद!"
+   },
+   "short_name": {
+      "description": "",
+      "message": "अज़ान के दौरान"
+   },
+   "showImsakTitle": {
+      "description": "",
+      "message": "Imsak"
+   },
+   "showMidnightTitle": {
+      "description": "",
+      "message": "आधी रात"
+   },
+   "sunriseText": {
+      "description": "",
+      "message": "सूर्योदय"
+   }
+}

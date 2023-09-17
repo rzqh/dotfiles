@@ -1,0 +1,142 @@
+{
+   "addressTitle": {
+      "description": "",
+      "message": "位置を設定"
+   },
+   "asrText": {
+      "description": "",
+      "message": "アスル"
+   },
+   "azanTimeTitle": {
+      "description": "",
+      "message": "アザーンの時間"
+   },
+   "calculationMethodTitle": {
+      "description": "",
+      "message": "計算方法"
+   },
+   "changeLanguageText": {
+      "description": "",
+      "message": "言語"
+   },
+   "defaultMethod": {
+      "description": "",
+      "message": "ISNA"
+   },
+   "description": {
+      "description": "",
+      "message": "容易にお祈り時間をご覧になり、次のお祈りまで何時間が残っているか、をご存知になることができます。"
+   },
+   "desktopNotificationsOnTitle": {
+      "description": "",
+      "message": "デスクトップ通知は有効になっています。"
+   },
+   "desktopNotificationsTitle": {
+      "description": "",
+      "message": "デスクトップ通知"
+   },
+   "dhuhrText": {
+      "description": "",
+      "message": "ズフル"
+   },
+   "elapsedTimeTitle": {
+      "description": "",
+      "message": "経過時間"
+   },
+   "fajrText": {
+      "description": "",
+      "message": "ファジュル"
+   },
+   "hanafiAsrTitle": {
+      "description": "",
+      "message": "ハナフィー宗門の遅いアスル"
+   },
+   "hijriDateOffsetTitle": {
+      "description": "",
+      "message": "ヒジリ日付のオフセット(日にち)"
+   },
+   "hour24Title": {
+      "description": "",
+      "message": "24時間"
+   },
+   "iconTitle": {
+      "description": "",
+      "message": "アイコン様式を選択"
+   },
+   "imsakText": {
+      "description": "",
+      "message": "イムサーク"
+   },
+   "ishaText": {
+      "description": "",
+      "message": "イシャー"
+   },
+   "jumuaText": {
+      "description": "",
+      "message": "ジュムア"
+   },
+   "languageCode": {
+      "description": "",
+      "message": "ja"
+   },
+   "maghribText": {
+      "description": "",
+      "message": "マグリブ"
+   },
+   "midnightText": {
+      "description": "",
+      "message": "夜中"
+   },
+   "name": {
+      "description": "",
+      "message": "お祈り時間・クローム拡張"
+   },
+   "nextTextTitle": {
+      "description": "",
+      "message": "残り時間"
+   },
+   "offsetTitle": {
+      "description": "",
+      "message": "お祈り時間オフセット “「分」"
+   },
+   "offsetsMenuText": {
+      "description": "",
+      "message": "オフセットを調整"
+   },
+   "offsetsResetButton": {
+      "description": "",
+      "message": "オフセットを再設定"
+   },
+   "remainingForIftarTitle": {
+      "description": "",
+      "message": "イフタール"
+   },
+   "settingsMenuText": {
+      "description": "",
+      "message": "設定"
+   },
+   "shareMenuText": {
+      "description": "",
+      "message": "共有選択肢"
+   },
+   "shareTitle": {
+      "description": "",
+      "message": "共有してくださり、ありがとうございます。"
+   },
+   "short_name": {
+      "description": "",
+      "message": "お祈り時間"
+   },
+   "showImsakTitle": {
+      "description": "",
+      "message": "イムサーク"
+   },
+   "showMidnightTitle": {
+      "description": "",
+      "message": "夜中"
+   },
+   "sunriseText": {
+      "description": "",
+      "message": "日の出"
+   }
+}

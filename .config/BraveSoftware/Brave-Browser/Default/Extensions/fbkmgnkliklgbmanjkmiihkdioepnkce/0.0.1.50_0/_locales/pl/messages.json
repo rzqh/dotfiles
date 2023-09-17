@@ -1,0 +1,142 @@
+{
+   "addressTitle": {
+      "description": "",
+      "message": "Ustaw Swoją Lokalizację"
+   },
+   "asrText": {
+      "description": "",
+      "message": "Asr"
+   },
+   "azanTimeTitle": {
+      "description": "",
+      "message": "Czas Azana"
+   },
+   "calculationMethodTitle": {
+      "description": "",
+      "message": "Metoda Obliczania"
+   },
+   "changeLanguageText": {
+      "description": "",
+      "message": "Język"
+   },
+   "defaultMethod": {
+      "description": "",
+      "message": "EUDiyanet"
+   },
+   "description": {
+      "description": "",
+      "message": "Łatwy dostęp do czasu modlitwy i zobaczyć, ile czasu pozostało do następnych modlitw."
+   },
+   "desktopNotificationsOnTitle": {
+      "description": "",
+      "message": "Powiadomienia na pulpicie są włączone."
+   },
+   "desktopNotificationsTitle": {
+      "description": "",
+      "message": "Powiadomienia na pulpicie"
+   },
+   "dhuhrText": {
+      "description": "",
+      "message": "Dhuhr"
+   },
+   "elapsedTimeTitle": {
+      "description": "",
+      "message": "Czas, który upłynął"
+   },
+   "fajrText": {
+      "description": "",
+      "message": "Fajr"
+   },
+   "hanafiAsrTitle": {
+      "description": "",
+      "message": "Hanafi Asr"
+   },
+   "hijriDateOffsetTitle": {
+      "description": "",
+      "message": "Przesunięcie Daty Hijri (Dni)"
+   },
+   "hour24Title": {
+      "description": "",
+      "message": "24-godzinny"
+   },
+   "iconTitle": {
+      "description": "",
+      "message": "Wybierz styl ikony"
+   },
+   "imsakText": {
+      "description": "",
+      "message": "Imsak"
+   },
+   "ishaText": {
+      "description": "",
+      "message": "Isha"
+   },
+   "jumuaText": {
+      "description": "",
+      "message": "Jumuah"
+   },
+   "languageCode": {
+      "description": "",
+      "message": "pl"
+   },
+   "maghribText": {
+      "description": "",
+      "message": "Maghrib"
+   },
+   "midnightText": {
+      "description": "",
+      "message": "Północ"
+   },
+   "name": {
+      "description": "",
+      "message": "Modlitwa razy Chrome Extension"
+   },
+   "nextTextTitle": {
+      "description": "",
+      "message": "Pozostały Czas"
+   },
+   "offsetTitle": {
+      "description": "",
+      "message": "Przesunięcia Czasu Modlitwy (Minuty)"
+   },
+   "offsetsMenuText": {
+      "description": "",
+      "message": "Korekty Odsunięcia"
+   },
+   "offsetsResetButton": {
+      "description": "",
+      "message": "Resetowanie"
+   },
+   "remainingForIftarTitle": {
+      "description": "",
+      "message": "Iftar in"
+   },
+   "settingsMenuText": {
+      "description": "",
+      "message": "Ustawienia"
+   },
+   "shareMenuText": {
+      "description": "",
+      "message": "Opcje Udostępniania"
+   },
+   "shareTitle": {
+      "description": "",
+      "message": "Dziękuję za dzielenie się!"
+   },
+   "short_name": {
+      "description": "",
+      "message": "Modlitwa razy"
+   },
+   "showImsakTitle": {
+      "description": "",
+      "message": "Imsak"
+   },
+   "showMidnightTitle": {
+      "description": "",
+      "message": "Północ"
+   },
+   "sunriseText": {
+      "description": "",
+      "message": "Słońce"
+   }
+}

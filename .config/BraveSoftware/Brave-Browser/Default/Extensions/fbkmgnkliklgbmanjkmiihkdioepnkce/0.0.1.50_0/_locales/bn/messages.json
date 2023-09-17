@@ -1,0 +1,142 @@
+{
+   "addressTitle": {
+      "description": "",
+      "message": "আপনার লোকেশন সেট করুন"
+   },
+   "asrText": {
+      "description": "",
+      "message": "আসর"
+   },
+   "azanTimeTitle": {
+      "description": "",
+      "message": "আজানের সময়"
+   },
+   "calculationMethodTitle": {
+      "description": "",
+      "message": " হিসাব পদ্ধতি "
+   },
+   "changeLanguageText": {
+      "description": "",
+      "message": "ভাষা"
+   },
+   "defaultMethod": {
+      "description": "",
+      "message": "MWL"
+   },
+   "description": {
+      "description": "",
+      "message": " নামাজের সময়সমূহ সহজেই দেখুন এবং পরবর্তী নামাজের জন্য কত সময় বাকি আছে তা দেখুন।"
+   },
+   "desktopNotificationsOnTitle": {
+      "description": "",
+      "message": " ডেস্কটপ নোটিফিকেশন চালু রয়েছে"
+   },
+   "desktopNotificationsTitle": {
+      "description": "",
+      "message": "ডেস্কটপ নোটিফিকেশন"
+   },
+   "dhuhrText": {
+      "description": "",
+      "message": "যোহর"
+   },
+   "elapsedTimeTitle": {
+      "description": "",
+      "message": "ব্যায়িত সময়"
+   },
+   "fajrText": {
+      "description": "",
+      "message": "ফজর"
+   },
+   "hanafiAsrTitle": {
+      "description": "",
+      "message": " হানাফী মাযহাবের দেরীতে আসর "
+   },
+   "hijriDateOffsetTitle": {
+      "description": "",
+      "message": "হিজরী তারিখ অফসেট(দিন)"
+   },
+   "hour24Title": {
+      "description": "",
+      "message": "24 ঘন্টা"
+   },
+   "iconTitle": {
+      "description": "",
+      "message": "আপনার আইকনের ধরন পছন্দ করুন"
+   },
+   "imsakText": {
+      "description": "",
+      "message": "Imsak"
+   },
+   "ishaText": {
+      "description": "",
+      "message": "এশা"
+   },
+   "jumuaText": {
+      "description": "",
+      "message": "জুম্মাহ"
+   },
+   "languageCode": {
+      "description": "",
+      "message": "bn"
+   },
+   "maghribText": {
+      "description": "",
+      "message": "মাগরীব"
+   },
+   "midnightText": {
+      "description": "",
+      "message": "মধ্যরাত"
+   },
+   "name": {
+      "description": "",
+      "message": " নামাজের সময় ক্রোম এক্সটেনশন "
+   },
+   "nextTextTitle": {
+      "description": "",
+      "message": "অবশিষ্ট সময়"
+   },
+   "offsetTitle": {
+      "description": "",
+      "message": "নামাজের সময় (মিনিট)"
+   },
+   "offsetsMenuText": {
+      "description": "",
+      "message": "অফসেট এডজাস্টমেন্টস"
+   },
+   "offsetsResetButton": {
+      "description": "",
+      "message": "রিসেট"
+   },
+   "remainingForIftarTitle": {
+      "description": "",
+      "message": "ইফতারের পূর্বে"
+   },
+   "settingsMenuText": {
+      "description": "",
+      "message": "সেটিংস"
+   },
+   "shareMenuText": {
+      "description": "",
+      "message": "শেয়ারিং অপশন "
+   },
+   "shareTitle": {
+      "description": "",
+      "message": "শেয়ার করার জন্য ধন্যবাদ!"
+   },
+   "short_name": {
+      "description": "",
+      "message": "নামাজেরসময়"
+   },
+   "showImsakTitle": {
+      "description": "",
+      "message": "Imsak"
+   },
+   "showMidnightTitle": {
+      "description": "",
+      "message": "মধ্যরাত"
+   },
+   "sunriseText": {
+      "description": "",
+      "message": " সূর্যোদয়"
+   }
+}

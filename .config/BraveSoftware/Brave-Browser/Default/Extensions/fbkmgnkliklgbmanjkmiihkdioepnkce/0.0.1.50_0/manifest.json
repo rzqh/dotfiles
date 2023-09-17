@@ -1,0 +1,26 @@
+{
+   "action": {
+      "default_icon": {
+         "128": "images/icons/128.png"
+      },
+      "default_popup": "index.html",
+      "default_title": "__MSG_short_name__"
+   },
+   "background": {
+      "service_worker": "serviceWorker.js"
+   },
+   "default_locale": "en",
+   "description": "__MSG_description__",
+   "host_permissions": [ "https://smartazanclock.com/" ],
+   "icons": {
+      "128": "images/icons/128.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAt38ChJBwT7vYgXi1CkcwFdEmEDI9mwGIzcUlI6h9bsECkac8p9xa0VHkaELJJMrPzgoUaJJz1YAbLLhVRGxXJa9rv7UxP38+bqtHT0WTqtYK6tGVH9WzJ84ZLIyfmKN2gC+WJ9ugKaJzcbtQvcq9XTCNMLbJOkXeUoZjH1kUJiRn0jKCsVHWnsjNeowysHfUoQzxKd95Bwwzg7jv65IvxTPCrmb+r6SgYz331fz8RyNFLyjgQz0vZAuUzzv0Vqhph1RpSEreXqrHMni15sOz/Wxw5ayNIz65YStJRLh2vsj4xT5EIY5Kp2HKezj/yXd+WdKPCD7cc5SwjpHkHVYEaQIDAQAB",
+   "manifest_version": 3,
+   "minimum_chrome_version": "88",
+   "name": "__MSG_name__",
+   "permissions": [ "storage", "notifications", "alarms" ],
+   "short_name": "__MSG_short_name__",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "0.0.1.50"
+}

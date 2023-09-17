@@ -1,0 +1,142 @@
+{
+   "addressTitle": {
+      "description": "",
+      "message": "محل"
+   },
+   "asrText": {
+      "description": "",
+      "message": "عصر"
+   },
+   "azanTimeTitle": {
+      "description": "",
+      "message": "اذان"
+   },
+   "calculationMethodTitle": {
+      "description": "",
+      "message": "روش محاسبه"
+   },
+   "changeLanguageText": {
+      "description": "",
+      "message": "زبان"
+   },
+   "defaultMethod": {
+      "description": "",
+      "message": "Tehran"
+   },
+   "description": {
+      "description": "",
+      "message": "یک راه آسان برای پیدا کردن اوقات نماز از مرورگر"
+   },
+   "desktopNotificationsOnTitle": {
+      "description": "",
+      "message": "اعلان‌های دسک‌تاپ روشن هستند."
+   },
+   "desktopNotificationsTitle": {
+      "description": "",
+      "message": "اعلان های دسکتاپ را روشن کنید"
+   },
+   "dhuhrText": {
+      "description": "",
+      "message": "ظهر"
+   },
+   "elapsedTimeTitle": {
+      "description": "",
+      "message": "زمان سپری شده"
+   },
+   "fajrText": {
+      "description": "",
+      "message": "سپیده دم"
+   },
+   "hanafiAsrTitle": {
+      "description": "",
+      "message": "حنفی عصر"
+   },
+   "hijriDateOffsetTitle": {
+      "description": "",
+      "message": "تنظیم تاریخ"
+   },
+   "hour24Title": {
+      "description": "",
+      "message": "24 ساعته"
+   },
+   "iconTitle": {
+      "description": "",
+      "message": "آیکون"
+   },
+   "imsakText": {
+      "description": "",
+      "message": "امساک"
+   },
+   "ishaText": {
+      "description": "",
+      "message": "عشاء'"
+   },
+   "jumuaText": {
+      "description": "",
+      "message": "جمعه"
+   },
+   "languageCode": {
+      "description": "",
+      "message": "fa"
+   },
+   "maghribText": {
+      "description": "",
+      "message": "مغرب"
+   },
+   "midnightText": {
+      "description": "",
+      "message": "نیمه شب"
+   },
+   "name": {
+      "description": "",
+      "message": "اوقات نماز"
+   },
+   "nextTextTitle": {
+      "description": "",
+      "message": "زمان باقی مانده"
+   },
+   "offsetTitle": {
+      "description": "",
+      "message": "تنظیم زمان"
+   },
+   "offsetsMenuText": {
+      "description": "",
+      "message": "تنظیم"
+   },
+   "offsetsResetButton": {
+      "description": "",
+      "message": "بازنشانی کنید"
+   },
+   "remainingForIftarTitle": {
+      "description": "",
+      "message": "افطار"
+   },
+   "settingsMenuText": {
+      "description": "",
+      "message": "ترتیب"
+   },
+   "shareMenuText": {
+      "description": "",
+      "message": "اشتراک گذاری"
+   },
+   "shareTitle": {
+      "description": "",
+      "message": "متشکرم"
+   },
+   "short_name": {
+      "description": "",
+      "message": "اوقات نماز"
+   },
+   "showImsakTitle": {
+      "description": "",
+      "message": "امساک"
+   },
+   "showMidnightTitle": {
+      "description": "",
+      "message": "نیمه شب"
+   },
+   "sunriseText": {
+      "description": "",
+      "message": "اشراق"
+   }
+}

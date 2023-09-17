@@ -1,0 +1,12 @@
+2023/09/17-22:22:57.525 4688 Reusing MANIFEST /home/rzqh/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/09/17-22:22:57.525 4688 Recovering log #98
+2023/09/17-22:22:57.532 4688 Reusing old log /home/rzqh/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000098.log 
+2023/09/17-22:23:19.289 4688 Level-0 table #103: started
+2023/09/17-22:23:19.298 4688 Level-0 table #103: 1060896 bytes OK
+2023/09/17-22:23:19.301 4688 Delete type=0 #98
+2023/09/17-22:23:35.726 468b Compacting 1@1 + 1@2 files
+2023/09/17-22:23:35.733 468b Generated table #104@1: 417 keys, 51596 bytes
+2023/09/17-22:23:35.733 468b Compacted 1@1 + 1@2 files => 51596 bytes
+2023/09/17-22:23:35.735 468b compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/09/17-22:23:35.735 468b Delete type=2 #100
+2023/09/17-22:23:35.735 468b Delete type=2 #103

@@ -1,0 +1,56 @@
+2023-09-17 13:36:05.353 [info] Getting Manifest... batisteo.vscode-django
+2023-09-17 13:36:05.363 [info] Installing extension: batisteo.vscode-django
+2023-09-17 13:36:06.510 [warning] Extension signature verification failed with error 'UnknownError': batisteo.vscode-django
+2023-09-17 13:36:06.614 [info] Extracted extension to file:///home/rzqh/.vscode/extensions/batisteo.vscode-django-1.11.0: batisteo.vscode-django
+2023-09-17 13:36:06.619 [info] Renamed to /home/rzqh/.vscode/extensions/batisteo.vscode-django-1.11.0
+2023-09-17 13:36:06.620 [info] Extracting extension completed. batisteo.vscode-django
+2023-09-17 13:36:06.628 [info] Extension installed successfully: batisteo.vscode-django
+2023-09-17 13:36:38.933 [info] Getting Manifest... xabikos.javascriptsnippets
+2023-09-17 13:36:38.942 [info] Installing extension: xabikos.javascriptsnippets
+2023-09-17 13:36:39.804 [warning] Extension signature verification failed with error 'UnknownError': xabikos.javascriptsnippets
+2023-09-17 13:36:39.842 [info] Extracted extension to file:///home/rzqh/.vscode/extensions/xabikos.javascriptsnippets-1.8.0: xabikos.javascriptsnippets
+2023-09-17 13:36:39.851 [info] Renamed to /home/rzqh/.vscode/extensions/xabikos.javascriptsnippets-1.8.0
+2023-09-17 13:36:39.856 [info] Extracting extension completed. xabikos.javascriptsnippets
+2023-09-17 13:36:39.884 [info] Extension installed successfully: xabikos.javascriptsnippets
+2023-09-17 13:36:52.959 [info] Getting Manifest... formulahendry.auto-close-tag
+2023-09-17 13:36:52.979 [info] Installing extension: formulahendry.auto-close-tag
+2023-09-17 13:36:54.070 [warning] Extension signature verification failed with error 'UnknownError': formulahendry.auto-close-tag
+2023-09-17 13:36:54.151 [info] Extracted extension to file:///home/rzqh/.vscode/extensions/formulahendry.auto-close-tag-0.5.14: formulahendry.auto-close-tag
+2023-09-17 13:36:54.160 [info] Renamed to /home/rzqh/.vscode/extensions/formulahendry.auto-close-tag-0.5.14
+2023-09-17 13:36:54.163 [info] Extracting extension completed. formulahendry.auto-close-tag
+2023-09-17 13:36:54.172 [info] Extension installed successfully: formulahendry.auto-close-tag
+2023-09-17 13:37:08.877 [info] Getting Manifest... formulahendry.auto-rename-tag
+2023-09-17 13:37:08.890 [info] Installing extension: formulahendry.auto-rename-tag
+2023-09-17 13:37:09.784 [warning] Extension signature verification failed with error 'UnknownError': formulahendry.auto-rename-tag
+2023-09-17 13:37:09.814 [info] Extracted extension to file:///home/rzqh/.vscode/extensions/formulahendry.auto-rename-tag-0.1.10: formulahendry.auto-rename-tag
+2023-09-17 13:37:09.816 [info] Renamed to /home/rzqh/.vscode/extensions/formulahendry.auto-rename-tag-0.1.10
+2023-09-17 13:37:09.817 [info] Extracting extension completed. formulahendry.auto-rename-tag
+2023-09-17 13:37:09.823 [info] Extension installed successfully: formulahendry.auto-rename-tag
+2023-09-17 13:37:22.230 [info] Getting Manifest... esbenp.prettier-vscode
+2023-09-17 13:37:22.237 [info] Installing extension: esbenp.prettier-vscode
+2023-09-17 13:37:23.937 [warning] Extension signature verification failed with error 'UnknownError': esbenp.prettier-vscode
+2023-09-17 13:37:24.057 [info] Extracted extension to file:///home/rzqh/.vscode/extensions/esbenp.prettier-vscode-10.1.0: esbenp.prettier-vscode
+2023-09-17 13:37:24.067 [info] Renamed to /home/rzqh/.vscode/extensions/esbenp.prettier-vscode-10.1.0
+2023-09-17 13:37:24.075 [info] Extracting extension completed. esbenp.prettier-vscode
+2023-09-17 13:37:24.097 [info] Extension installed successfully: esbenp.prettier-vscode
+2023-09-17 13:37:42.117 [info] Getting Manifest... eamodio.gitlens
+2023-09-17 13:37:42.136 [info] Installing extension: eamodio.gitlens
+2023-09-17 13:37:45.916 [warning] Extension signature verification failed with error 'UnknownError': eamodio.gitlens
+2023-09-17 13:37:46.174 [info] Extracted extension to file:///home/rzqh/.vscode/extensions/eamodio.gitlens-14.3.0: eamodio.gitlens
+2023-09-17 13:37:46.190 [info] Renamed to /home/rzqh/.vscode/extensions/eamodio.gitlens-14.3.0
+2023-09-17 13:37:46.195 [info] Extracting extension completed. eamodio.gitlens
+2023-09-17 13:37:46.205 [info] Extension installed successfully: eamodio.gitlens
+2023-09-17 13:38:20.956 [info] Getting Manifest... dzhavat.bracket-pair-toggler
+2023-09-17 13:38:20.968 [info] Installing extension: dzhavat.bracket-pair-toggler
+2023-09-17 13:38:21.962 [warning] Extension signature verification failed with error 'UnknownError': dzhavat.bracket-pair-toggler
+2023-09-17 13:38:21.978 [info] Extracted extension to file:///home/rzqh/.vscode/extensions/dzhavat.bracket-pair-toggler-0.0.3: dzhavat.bracket-pair-toggler
+2023-09-17 13:38:21.982 [info] Renamed to /home/rzqh/.vscode/extensions/dzhavat.bracket-pair-toggler-0.0.3
+2023-09-17 13:38:21.985 [info] Extracting extension completed. dzhavat.bracket-pair-toggler
+2023-09-17 13:38:21.994 [info] Extension installed successfully: dzhavat.bracket-pair-toggler
+2023-09-17 13:39:05.178 [info] Getting Manifest... ms-azuretools.vscode-docker
+2023-09-17 13:39:05.198 [info] Installing extension: ms-azuretools.vscode-docker
+2023-09-17 13:39:07.404 [warning] Extension signature verification failed with error 'UnknownError': ms-azuretools.vscode-docker
+2023-09-17 13:39:07.481 [info] Extracted extension to file:///home/rzqh/.vscode/extensions/ms-azuretools.vscode-docker-1.26.0: ms-azuretools.vscode-docker
+2023-09-17 13:39:07.485 [info] Renamed to /home/rzqh/.vscode/extensions/ms-azuretools.vscode-docker-1.26.0
+2023-09-17 13:39:07.491 [info] Extracting extension completed. ms-azuretools.vscode-docker
+2023-09-17 13:39:07.498 [info] Extension installed successfully: ms-azuretools.vscode-docker
