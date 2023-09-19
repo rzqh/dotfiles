@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<application-state>
+  <context id="">
+    <application id="spotify.desktop" score="10" last-seen="1694773147"/>
+    <application id="brave-cbhgijgpepiaghljgopllkojeplbdpne-Default.desktop" score="13" last-seen="1694950154"/>
+    <application id="org.gnome.Calculator.desktop" score="9" last-seen="1694682450"/>
+    <application id="org.gnome.tweaks.desktop" score="56" last-seen="1694950783"/>
+    <application id="brave-browser.desktop" score="6452" last-seen="1695131454"/>
+    <application id="org.gnome.Software.desktop" score="17" last-seen="1695127859"/>
+    <application id="org.gnome.Shell.Extensions.desktop" score="10" last-seen="1694950165"/>
+    <application id="org.gnome.Epiphany.desktop" score="0" last-seen="1694676828"/>
+    <application id="brave-hnpfjngllnobngcgfapefoaidbinmjnm-Default.desktop" score="10316" last-seen="1695131342"/>
+    <application id="org.gnome.gedit.desktop" score="17" last-seen="1694610739"/>
+    <application id="org.gnome.Console.desktop" score="1761" last-seen="1695131490"/>
+    <application id="org.gnome.Nautilus.desktop" score="469" last-seen="1695131491"/>
+    <application id="org.gnome.Totem.desktop" score="1" last-seen="1694861416"/>
+    <application id="xdg-desktop-portal-gnome.desktop" score="0" last-seen="1695127012"/>
+    <application id="org.gnome.Tour.desktop" score="5" last-seen="1694679226"/>
+    <application id="notion-app-enhanced.desktop" score="13" last-seen="1694767151"/>
+    <application id="org.gnome.font-viewer.desktop" score="92" last-seen="1694966413"/>
+    <application id="firefox.desktop" score="693" last-seen="1694950920"/>
+    <application id="org.telegram.desktop.desktop" score="293" last-seen="1695131146"/>
+    <application id="vlc.desktop" score="10730" last-seen="1695098965"/>
+    <application id="org.gnome.DiskUtility.desktop" score="15" last-seen="1694966736"/>
+    <application id="org.gnome.Music.desktop" score="0" last-seen="1694605426"/>
+    <application id="gnome-system-monitor.desktop" score="54" last-seen="1694967167"/>
+    <application id="code.desktop" score="205" last-seen="1695129219"/>
+    <application id="wps-office-et.desktop" score="0" last-seen="1694972201"/>
+    <application id="org.gnome.Extensions.desktop" score="118" last-seen="1694767632"/>
+    <application id="org.gnome.Settings.desktop" score="235" last-seen="1695126952"/>
+  </context>
+</application-state>
