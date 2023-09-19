@@ -1,2 +1,0 @@
-2023-09-17 13:35:56.791 [info] [perf] Render performance baseline is 419ms
-2023-09-17 13:36:39.971 [error] [xabikos.JavaScriptSnippets]: Unknown language in `contributes.JavaScriptSnippets.language`. Provided value: vue
