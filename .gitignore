@@ -1,8 +1,0 @@
-# Direktori yang akan diabaikan
-.oh-my-zsh/
-
-# Berkas log
-*.log
-
-# Berkas sementara atau cache
-.cache/
