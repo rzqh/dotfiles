@@ -1,0 +1,18 @@
+2023-09-19 18:49:53.699 [info] Log level: Info
+2023-09-19 18:49:53.699 [info] Validating found git in: "git"
+2023-09-19 18:49:53.699 [info] Using git "2.42.0" from "git"
+2023-09-19 18:49:53.699 [info] > git rev-parse --show-toplevel [7ms]
+2023-09-19 18:49:53.699 [info] > git rev-parse --git-dir --git-common-dir [3ms]
+2023-09-19 18:49:53.699 [info] Open repository: /home/rzqh/.config/nvim
+2023-09-19 18:49:53.718 [info] > git rev-parse --show-toplevel [4ms]
+2023-09-19 18:49:53.719 [info] > git config --get commit.template [11ms]
+2023-09-19 18:49:53.733 [info] > git rev-parse --show-toplevel [9ms]
+2023-09-19 18:49:53.739 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [8ms]
+2023-09-19 18:49:54.306 [info] > git check-ignore -v -z --stdin [3ms]
+2023-09-19 18:49:54.765 [info] > git status -z -uall [1015ms]
+2023-09-19 18:49:54.790 [info] > git config --get commit.template [8ms]
+2023-09-19 18:49:54.791 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2023-09-19 18:49:59.540 [info] > git status -z -uall [4743ms]
+2023-09-19 18:50:00.323 [info] > git show --textconv :init.lua [11ms]
+2023-09-19 18:50:00.345 [info] > git ls-files --stage -- /home/rzqh/.config/nvim/init.lua [23ms]
+2023-09-19 18:50:00.355 [info] > git cat-file -s d9a3b720be3308445623d5b0bc37e6f4bd69fbdb [2ms]

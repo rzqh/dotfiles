@@ -1,0 +1,14 @@
+[2023-09-19 11:58:42.497] [GIT  ] [/home/rzqh/.config/nvim] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any parent up to mount point /) • Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set). [43ms]
+
+[2023-09-19 11:58:50.694] [GIT  ] [/home/rzqh/.config/nvim/lua/core] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any parent up to mount point /) • Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set). [8ms]
+
+[2023-09-19 11:58:52.894] [GIT  ] [/home/rzqh/.config/nvim/lua/core] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any parent up to mount point /) • Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set). [12ms]
+
+[2023-09-19 11:58:53.764] [GIT  ] [/home/rzqh/.config/nvim/lua/core] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any parent up to mount point /) • Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set). [9ms]
+
+[2023-09-19 11:59:27.467] [GIT  ] [/home/rzqh/.config/nvim/lua/config/lsp] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any parent up to mount point /) • Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set). [8ms]
+
+[2023-09-19 11:59:46.942] [GIT  ] [/home/rzqh/.config/nvim/lua/config/lsp] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any parent up to mount point /) • Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set). [10ms]
+
+[2023-09-19 12:00:18.765] [GIT  ] [/home/rzqh/.config/nvim/lua/config/lsp] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any parent up to mount point /) • Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set). [9ms]
+

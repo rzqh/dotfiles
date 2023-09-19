@@ -1,0 +1,66 @@
+2023-09-19 19:38:08.698 [info] Log level: Info
+2023-09-19 19:38:08.698 [info] Validating found git in: "git"
+2023-09-19 19:38:08.698 [info] Using git "2.42.0" from "git"
+2023-09-19 19:38:08.698 [info] > git rev-parse --show-toplevel [74ms]
+2023-09-19 19:38:08.698 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-09-19 19:38:08.698 [warning] Failed to get repository realpath for: "/home/rzqh/.config/nvim/lua/config/lsp". Error: ENOENT: no such file or directory, realpath '/home/rzqh/.config/nvim/lua/config/lsp'
+2023-09-19 19:38:08.698 [info] > git rev-parse --show-toplevel [49ms]
+2023-09-19 19:38:08.698 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-09-19 19:38:08.773 [info] > git rev-parse --show-toplevel [19ms]
+2023-09-19 19:38:08.774 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-09-19 19:38:11.831 [info] > git rev-parse --show-toplevel [1420ms]
+2023-09-19 19:38:11.832 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-09-19 19:38:13.376 [info] > git rev-parse --show-toplevel [2ms]
+2023-09-19 19:38:13.376 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-09-19 19:38:13.617 [info] > git rev-parse --show-toplevel [2ms]
+2023-09-19 19:38:13.617 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-09-19 19:38:13.760 [info] > git rev-parse --show-toplevel [2ms]
+2023-09-19 19:38:13.760 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-09-19 19:38:13.900 [info] > git rev-parse --show-toplevel [1ms]
+2023-09-19 19:38:13.900 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-09-19 19:38:32.804 [info] Log level: Info
+2023-09-19 19:38:32.804 [info] Validating found git in: "git"
+2023-09-19 19:38:32.804 [info] Using git "2.42.0" from "git"
+2023-09-19 19:38:32.810 [info] > git rev-parse --show-toplevel [9ms]
+2023-09-19 19:38:32.823 [info] > git rev-parse --git-dir --git-common-dir [2ms]
+2023-09-19 19:38:32.842 [info] Open repository: /home/rzqh/.dotfiles
+2023-09-19 19:38:32.886 [info] > git rev-parse --show-toplevel [19ms]
+2023-09-19 19:38:32.888 [info] > git config --get commit.template [29ms]
+2023-09-19 19:38:32.940 [info] > git rev-parse --show-toplevel [23ms]
+2023-09-19 19:38:32.950 [info] > git rev-parse --show-toplevel [1ms]
+2023-09-19 19:38:32.952 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [15ms]
+2023-09-19 19:38:33.749 [info] > git check-ignore -v -z --stdin [263ms]
+2023-09-19 19:38:34.112 [info] > git status -z -uall [1153ms]
+2023-09-19 19:38:40.659 [info] > git config --get commit.template [63ms]
+2023-09-19 19:38:40.693 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [14ms]
+2023-09-19 19:38:41.113 [info] > git status -z -uall [408ms]
+2023-09-19 19:38:42.682 [info] > git check-ignore -v -z --stdin [1040ms]
+2023-09-19 19:38:43.428 [info] > git check-ignore -v -z --stdin [249ms]
+2023-09-19 19:38:59.314 [info] Log level: Info
+2023-09-19 19:38:59.314 [info] Validating found git in: "git"
+2023-09-19 19:38:59.314 [info] Using git "2.42.0" from "git"
+2023-09-19 19:38:59.314 [info] > git rev-parse --show-toplevel [11ms]
+2023-09-19 19:38:59.337 [info] > git rev-parse --git-dir --git-common-dir [6ms]
+2023-09-19 19:38:59.355 [info] Open repository: /home/rzqh/dotfiles
+2023-09-19 19:38:59.387 [info] > git rev-parse --show-toplevel [11ms]
+2023-09-19 19:38:59.388 [info] > git config --get commit.template [20ms]
+2023-09-19 19:38:59.410 [info] > git rev-parse --show-toplevel [13ms]
+2023-09-19 19:38:59.421 [info] > git rev-parse --show-toplevel [3ms]
+2023-09-19 19:38:59.422 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [14ms]
+2023-09-19 19:38:59.454 [info] > git rev-parse --show-toplevel [4ms]
+2023-09-19 19:38:59.702 [info] > git status -z -uall [272ms]
+2023-09-19 19:38:59.960 [info] > git config --get commit.template [209ms]
+2023-09-19 19:38:59.970 [info] > git check-ignore -v -z --stdin [54ms]
+2023-09-19 19:39:00.026 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [16ms]
+2023-09-19 19:39:00.193 [info] > git status -z -uall [157ms]
+2023-09-19 19:39:06.214 [info] > git check-ignore -v -z --stdin [108ms]
+2023-09-19 19:39:07.535 [info] > git check-ignore -v -z --stdin [7ms]
+2023-09-19 19:39:16.274 [info] > git check-ignore -v -z --stdin [12ms]

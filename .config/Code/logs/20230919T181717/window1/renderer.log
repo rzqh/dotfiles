@@ -1,0 +1,4 @@
+2023-09-19 18:17:22.255 [info] [perf] Render performance baseline is 466ms
+2023-09-19 18:17:52.250 [warning] [backup tracker] suspended, ignoring dirty change event untitled:/home/rzqh/.dotfiles/zhrc 
+2023-09-19 18:17:52.257 [warning] [backup tracker] suspended, ignoring unregister event untitled:/home/rzqh/.dotfiles/zhrc 
+2023-09-19 18:17:56.244 [info] [perf] Render performance baseline is 50ms

@@ -1,0 +1,8 @@
+2023-09-19 18:17:28.796 [info] Getting Manifest... batisteo.vscode-django
+2023-09-19 18:17:28.990 [info] Installing extension: batisteo.vscode-django
+2023-09-19 18:17:30.063 [warning] Extension signature verification failed with error 'UnknownError': batisteo.vscode-django
+2023-09-19 18:17:30.198 [info] Extracted extension to file:///home/rzqh/.vscode/extensions/batisteo.vscode-django-1.13.0: batisteo.vscode-django
+2023-09-19 18:17:30.203 [info] Renamed to /home/rzqh/.vscode/extensions/batisteo.vscode-django-1.13.0
+2023-09-19 18:17:30.205 [info] Extracting extension completed. batisteo.vscode-django
+2023-09-19 18:17:30.216 [info] Extension installed successfully: batisteo.vscode-django
+2023-09-19 18:17:30.221 [info] Marked extension as uninstalled batisteo.vscode-django-1.11.0

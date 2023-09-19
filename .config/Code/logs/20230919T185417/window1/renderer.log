@@ -1,0 +1,14 @@
+2023-09-19 18:54:25.862 [info] [perf] Render performance baseline is 57ms
+2023-09-19 18:56:08.258 [error] Cannot read properties of undefined (reading 'endLineNumberExclusive'): TypeError: Cannot read properties of undefined (reading 'endLineNumberExclusive')
+    at T.intersectsStrict (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:79:10957)
+    at b (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:601:12829)
+    at vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:601:14729
+    at m (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:68:7983)
+    at vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:601:14724
+2023-09-19 18:56:27.330 [error] Cannot read properties of undefined (reading 'endLineNumberExclusive'): TypeError: Cannot read properties of undefined (reading 'endLineNumberExclusive')
+    at T.intersectsStrict (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:79:10957)
+    at b (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:601:12829)
+    at vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:601:14729
+    at m (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:68:7983)
+    at vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:601:14724
+2023-09-19 18:58:27.334 [warning] [File Watcher (node.js)] Watcher shutdown because watched path got deleted

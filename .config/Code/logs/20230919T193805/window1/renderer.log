@@ -1,0 +1,4 @@
+2023-09-19 19:38:14.005 [info] [perf] Render performance baseline is 52ms
+2023-09-19 19:38:31.511 [warning] [backup tracker] suspended, ignoring dirty change event file:///home/rzqh/.config/nvim/lua/config/lsp/null-ls.lua 
+2023-09-19 19:38:34.926 [info] [perf] Render performance baseline is 47ms
+2023-09-19 19:39:01.987 [info] [perf] Render performance baseline is 466ms

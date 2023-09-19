@@ -1,0 +1,83 @@
+2023-09-19 18:54:19.267 [info] Log level: Info
+2023-09-19 18:54:19.267 [info] Validating found git in: "git"
+2023-09-19 18:54:19.267 [info] Using git "2.42.0" from "git"
+2023-09-19 18:54:19.267 [info] > git rev-parse --show-toplevel [7ms]
+2023-09-19 18:54:19.267 [info] > git rev-parse --git-dir --git-common-dir [6ms]
+2023-09-19 18:54:19.267 [info] Open repository: /home/rzqh/.config/nvim
+2023-09-19 18:54:19.295 [info] > git rev-parse --show-toplevel [15ms]
+2023-09-19 18:54:19.297 [info] > git config --get commit.template [21ms]
+2023-09-19 18:54:19.321 [info] > git rev-parse --show-toplevel [14ms]
+2023-09-19 18:54:19.325 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [6ms]
+2023-09-19 18:54:19.891 [info] > git check-ignore -v -z --stdin [9ms]
+2023-09-19 18:54:19.937 [info] > git show --textconv :init.lua [10ms]
+2023-09-19 18:54:19.939 [info] > git ls-files --stage -- /home/rzqh/.config/nvim/init.lua [3ms]
+2023-09-19 18:54:19.972 [info] > git cat-file -s d9a3b720be3308445623d5b0bc37e6f4bd69fbdb [27ms]
+2023-09-19 18:54:20.317 [info] > git status -z -uall [976ms]
+2023-09-19 18:54:20.337 [info] > git config --get commit.template [3ms]
+2023-09-19 18:54:20.348 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2023-09-19 18:54:21.106 [info] > git check-ignore -v -z --stdin [9ms]
+2023-09-19 18:54:24.059 [info] > git status -z -uall [3704ms]
+2023-09-19 18:54:24.733 [info] > git show --textconv :lua/core/init.lua [36ms]
+2023-09-19 18:54:24.780 [info] > git ls-files --stage -- /home/rzqh/.config/nvim/lua/core/init.lua [11ms]
+2023-09-19 18:54:24.820 [info] > git cat-file -s cab4581fb141f09e6ab6bce93a3043ecbd3ed536 [7ms]
+2023-09-19 18:54:48.597 [info] > git show --textconv :lua/core/lazy.lua [19ms]
+2023-09-19 18:54:48.599 [info] > git ls-files --stage -- /home/rzqh/.config/nvim/lua/core/lazy.lua [12ms]
+2023-09-19 18:54:48.606 [info] > git cat-file -s 43a443c6b720b560ecf583d8a7daaea60bbd306e [1ms]
+2023-09-19 18:54:58.342 [info] > git check-ignore -v -z --stdin [4ms]
+2023-09-19 18:55:01.610 [info] > git check-ignore -v -z --stdin [2ms]
+2023-09-19 18:55:05.701 [info] > git check-ignore -v -z --stdin [4ms]
+2023-09-19 18:55:07.652 [info] > git check-ignore -v -z --stdin [5ms]
+2023-09-19 18:55:17.275 [info] > git show --textconv :lua/config/lsp/config.lua [20ms]
+2023-09-19 18:55:17.280 [info] > git ls-files --stage -- /home/rzqh/.config/nvim/lua/config/lsp/config.lua [6ms]
+2023-09-19 18:55:17.305 [info] > git cat-file -s 20d4e74801624fac1441e183dbbc0a7addbbe4f0 [10ms]
+2023-09-19 18:55:17.525 [info] > git check-ignore -v -z --stdin [4ms]
+2023-09-19 18:55:22.158 [info] > git show --textconv :lua/config/lsp/handlers.lua [24ms]
+2023-09-19 18:55:22.175 [info] > git ls-files --stage -- /home/rzqh/.config/nvim/lua/config/lsp/handlers.lua [19ms]
+2023-09-19 18:55:22.188 [info] > git cat-file -s 40df2263d912dcb267db354de2ec0d32272cf7dc [4ms]
+2023-09-19 18:55:23.846 [info] > git show --textconv :lua/config/lsp/mason.lua [22ms]
+2023-09-19 18:55:23.850 [info] > git ls-files --stage -- /home/rzqh/.config/nvim/lua/config/lsp/mason.lua [6ms]
+2023-09-19 18:55:23.870 [info] > git cat-file -s 8169b282e1aea3ddd18cd30e740ba3f394084cef [9ms]
+2023-09-19 18:55:44.250 [info] > git show --textconv :lua/config/lsp/config.lua [21ms]
+2023-09-19 18:55:44.254 [info] > git ls-files --stage -- /home/rzqh/.config/nvim/lua/config/lsp/config.lua [6ms]
+2023-09-19 18:55:44.296 [info] > git cat-file -s 20d4e74801624fac1441e183dbbc0a7addbbe4f0 [21ms]
+2023-09-19 18:55:47.520 [info] > git show --textconv :lua/config/lsp/handlers.lua [21ms]
+2023-09-19 18:55:47.546 [info] > git ls-files --stage -- /home/rzqh/.config/nvim/lua/config/lsp/handlers.lua [29ms]
+2023-09-19 18:55:47.560 [info] > git cat-file -s 40df2263d912dcb267db354de2ec0d32272cf7dc [4ms]
+2023-09-19 18:55:59.022 [info] > git show --textconv :lua/config/lsp/config.lua [8ms]
+2023-09-19 18:55:59.024 [info] > git ls-files --stage -- /home/rzqh/.config/nvim/lua/config/lsp/config.lua [2ms]
+2023-09-19 18:55:59.032 [info] > git cat-file -s 20d4e74801624fac1441e183dbbc0a7addbbe4f0 [2ms]
+2023-09-19 18:56:08.290 [info] > git check-ignore -v -z --stdin [7ms]
+2023-09-19 18:56:08.940 [info] > git config --get commit.template [11ms]
+2023-09-19 18:56:08.941 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2023-09-19 18:56:09.704 [info] > git status -z -uall [754ms]
+2023-09-19 18:56:27.721 [info] > git checkout -q -- /home/rzqh/.config/nvim/lua/config/lsp/mason.lua [681ms]
+2023-09-19 18:56:27.737 [info] > git config --get commit.template [7ms]
+2023-09-19 18:56:27.737 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2023-09-19 18:56:27.746 [info] > git status -z -uall [3ms]
+2023-09-19 18:56:28.842 [info] > git config --get commit.template [22ms]
+2023-09-19 18:56:28.845 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [5ms]
+2023-09-19 18:56:28.868 [info] > git status -z -uall [6ms]
+2023-09-19 18:58:30.853 [warning] ENOENT: no such file or directory, open '/home/rzqh/.config/nvim/.git/HEAD'
+2023-09-19 18:58:30.861 [warning] getRemotes() - ENOENT: no such file or directory, open '/home/rzqh/.config/nvim/.git/config'
+2023-09-19 18:58:30.868 [info] > git config --get commit.template [2ms]
+2023-09-19 18:58:30.868 [info] > git remote --verbose [7ms]
+2023-09-19 18:58:30.868 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-09-19 18:58:30.872 [info] > git symbolic-ref --short HEAD [20ms]
+2023-09-19 18:58:30.872 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-09-19 18:58:30.884 [warning] ENOENT: no such file or directory, open '/home/rzqh/.config/nvim/.git/HEAD'
+2023-09-19 18:58:30.891 [warning] getRemotes() - ENOENT: no such file or directory, open '/home/rzqh/.config/nvim/.git/config'
+2023-09-19 18:58:30.897 [info] > git remote --verbose [7ms]
+2023-09-19 18:58:30.897 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-09-19 18:58:30.898 [info] > git symbolic-ref --short HEAD [14ms]
+2023-09-19 18:58:30.898 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-09-19 18:58:30.905 [info] > git rev-parse HEAD [28ms]
+2023-09-19 18:58:30.905 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-09-19 18:58:30.906 [info] > git config --get commit.template [10ms]
+2023-09-19 18:58:30.906 [info] > git rev-parse HEAD [1ms]
+2023-09-19 18:58:30.906 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).

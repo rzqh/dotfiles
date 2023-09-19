@@ -1,0 +1,14 @@
+2023-09-19 19:02:43.026 [info] Getting Manifest... sumneko.lua
+2023-09-19 19:02:43.040 [info] Installing extension: sumneko.lua
+2023-09-19 19:02:46.744 [warning] Extension signature verification failed with error 'UnknownError': sumneko.lua
+2023-09-19 19:02:48.804 [info] Extracted extension to file:///home/rzqh/.vscode/extensions/sumneko.lua-3.7.0-linux-x64: sumneko.lua
+2023-09-19 19:02:48.819 [info] Renamed to /home/rzqh/.vscode/extensions/sumneko.lua-3.7.0-linux-x64
+2023-09-19 19:02:48.832 [info] Extracting extension completed. sumneko.lua
+2023-09-19 19:02:48.844 [info] Extension installed successfully: sumneko.lua
+2023-09-19 19:02:49.913 [info] Getting Manifest... keyring.lua
+2023-09-19 19:02:49.920 [info] Installing extension: keyring.lua
+2023-09-19 19:02:50.966 [warning] Extension signature verification failed with error 'UnknownError': keyring.lua
+2023-09-19 19:02:50.979 [info] Extracted extension to file:///home/rzqh/.vscode/extensions/keyring.lua-0.0.9: keyring.lua
+2023-09-19 19:02:50.982 [info] Renamed to /home/rzqh/.vscode/extensions/keyring.lua-0.0.9
+2023-09-19 19:02:50.983 [info] Extracting extension completed. keyring.lua
+2023-09-19 19:02:50.991 [info] Extension installed successfully: keyring.lua

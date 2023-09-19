@@ -1,0 +1,38 @@
+2023-09-19 18:17:19.308 [info] Log level: Info
+2023-09-19 18:17:19.308 [info] Validating found git in: "git"
+2023-09-19 18:17:19.308 [info] Using git "2.42.0" from "git"
+2023-09-19 18:17:19.308 [info] > git rev-parse --show-toplevel [9ms]
+2023-09-19 18:17:19.818 [info] > git rev-parse --show-toplevel [8ms]
+2023-09-19 18:17:53.795 [info] Log level: Info
+2023-09-19 18:17:53.795 [info] Validating found git in: "git"
+2023-09-19 18:17:53.795 [info] Using git "2.42.0" from "git"
+2023-09-19 18:17:53.801 [info] > git rev-parse --show-toplevel [4ms]
+2023-09-19 18:17:53.813 [info] > git rev-parse --git-dir --git-common-dir [2ms]
+2023-09-19 18:17:53.836 [info] Open repository: /home/rzqh/.config/nvim
+2023-09-19 18:17:53.873 [info] > git rev-parse --show-toplevel [12ms]
+2023-09-19 18:17:53.875 [info] > git config --get commit.template [23ms]
+2023-09-19 18:17:53.916 [info] > git rev-parse --show-toplevel [28ms]
+2023-09-19 18:17:53.949 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [35ms]
+2023-09-19 18:17:54.487 [info] > git check-ignore -v -z --stdin [3ms]
+2023-09-19 18:17:54.945 [info] > git status -z -uall [987ms]
+2023-09-19 18:17:54.973 [info] > git config --get commit.template [11ms]
+2023-09-19 18:17:54.974 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2023-09-19 18:17:55.669 [info] > git show --textconv :init.lua [22ms]
+2023-09-19 18:17:55.692 [info] > git ls-files --stage -- /home/rzqh/.config/nvim/init.lua [23ms]
+2023-09-19 18:17:55.715 [info] > git cat-file -s d9a3b720be3308445623d5b0bc37e6f4bd69fbdb [12ms]
+2023-09-19 18:17:55.960 [info] > git status -z -uall [979ms]
+2023-09-19 18:18:04.854 [info] > git show --textconv :lazy-lock.json [10ms]
+2023-09-19 18:18:04.855 [info] > git ls-files --stage -- /home/rzqh/.config/nvim/lazy-lock.json [2ms]
+2023-09-19 18:18:04.864 [info] > git cat-file -s bb237b7d7c42ca55f0df1fd145e6eb240fe69faa [1ms]
+2023-09-19 18:18:20.593 [info] > git show --textconv :README.md [11ms]
+2023-09-19 18:18:20.629 [info] > git ls-files --stage -- /home/rzqh/.config/nvim/README.md [37ms]
+2023-09-19 18:18:20.637 [info] > git cat-file -s 914c4c9f6d532e46d1577c3e8f9a3f479368d2ac [1ms]
+2023-09-19 18:18:23.029 [info] > git check-ignore -v -z --stdin [4ms]
+2023-09-19 18:18:25.795 [info] > git check-ignore -v -z --stdin [4ms]
+2023-09-19 18:18:32.387 [info] > git show --textconv :lua/config/icons.lua [25ms]
+2023-09-19 18:18:32.413 [info] > git ls-files --stage -- /home/rzqh/.config/nvim/lua/config/icons.lua [27ms]
+2023-09-19 18:18:32.424 [info] > git cat-file -s c72ebf66e06fc7f2636b9a1c1450a1b58ea03725 [3ms]
+2023-09-19 18:19:19.007 [info] > git show --textconv :lua/config/nvim-tree.lua [26ms]
+2023-09-19 18:19:19.025 [info] > git ls-files --stage -- /home/rzqh/.config/nvim/lua/config/nvim-tree.lua [21ms]
+2023-09-19 18:19:19.038 [info] > git cat-file -s 5f95b0d3c5039ccbbbd71f76714a67ba4d51f5d6 [3ms]
+2023-09-19 18:19:38.268 [info] > git check-ignore -v -z --stdin [4ms]

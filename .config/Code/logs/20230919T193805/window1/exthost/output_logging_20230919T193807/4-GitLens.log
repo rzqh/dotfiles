@@ -1,0 +1,4 @@
+[2023-09-19 12:38:12.237] [GIT  ] [/home/rzqh/.config/nvim] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any parent up to mount point /) • Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set). [182ms]
+
+[2023-09-19 12:38:13.418] Function.e
+EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/rzqh/.config/nvim/lua/config/lsp/null-ls.lua'
